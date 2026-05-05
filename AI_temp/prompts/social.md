@@ -67,7 +67,7 @@ Ready-to-post content for Twitter/X, LinkedIn, Instagram, and TikTok.
 
 ---
 
-**Prompt:** Write a " keystone content" tweet: one tweet that encapsulates your core philosophy on `[topic]`. Should be memorable, quotable, and represent your brand voice. Max 280 characters.
+**Prompt:** Write a "keystone content" tweet: one tweet that encapsulates your core philosophy on `[topic]`. Should be memorable, quotable, and represent your brand voice. Max 280 characters.
 
 **Context:** Brand positioning
 **Output:** Iconic, shareable, on-brand

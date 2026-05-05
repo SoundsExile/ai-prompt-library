@@ -53,7 +53,7 @@ Precise prompts for Midjourney, Stable Diffusion, DALL-E. Replace bracketed item
 
 ---
 
-**Prompt:** Write a prompt for `[character/portrait]` in `[fantasy/sci-fi] setting. Include `[costume details]`, `[weapon/accessory]`, `[pose]`, `[lighting style]`, dramatic mood.
+**Prompt:** Write a prompt for `[character/portrait]` in `[fantasy/sci-fi]` setting. Include `[costume details]`, `[weapon/accessory]`, `[pose]`, `[lighting style]`, dramatic mood.
 
 **Context:** Character art, RPG assets
 **Output:** Detailed character prompt
